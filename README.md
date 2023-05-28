@@ -23,14 +23,10 @@
 
 
 ### 常用的编程语言
-<table>
-    <tr>
-        <td>
-            <img src='https://github-readme-stats.vercel.app/api/top-langs?username=jianjianai&layout=compact&langs_count=6'>
-        </td>
-        <td>
-            <img src='https://github-readme-stats.vercel.app/api?username=jianjianai&show_icons=true&hide=issues'>
-        </td>
-    </tr>
-</table>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jianjianai&layout=compact&langs_count=6" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jianjianai&show_icons=true&hide=issues" />
+</a>
 
